@@ -1,2 +1,2 @@
 Local Surface Descriptor for Geometry and Feature Preserved Mesh Denoising
-The code will be released soon.
+I apologize for the lateness, the code will be released in this month.
