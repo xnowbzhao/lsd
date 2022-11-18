@@ -1,6 +1,6 @@
 # The structure of profile1.txt and profile2.txt
 
-'''
+```
 4                      <- Number of the ground truth meshes and noisy meshes
 strain/cad.obj         <- Path of GT mesh
 strain/elephant.obj
@@ -18,11 +18,11 @@ Parameters for train data number
 0,1,2: the index range of output files groups, range(10, 20, 2) = 10, 12, 14, 16, 18
 3: the number of LSD in each group
 4: the nnumber of LSD in each file 
-'''
+```
 
 # The structure of s_i2.txt
 
-'''
+```
 2                      <- Number of models
 model/s_i1             <- Path of model
 model/s_i2
@@ -36,5 +36,5 @@ stest/block_n2.obj
 stest/block_n3.obj
 ...
 
-'''
+```
 
