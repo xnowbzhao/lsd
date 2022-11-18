@@ -1,0 +1,20 @@
+8
+v1train/big_girl_01.obj
+v1train/big_girl_11.obj
+v1train/cone_01.obj
+v1train/cone_11.obj
+v1train/david_01.obj
+v1train/david_11.obj
+v1train/pyramid_01.obj
+v1train/pyramid_11.obj
+v1train/big_girl_01_noisy.obj
+v1train/big_girl_11_noisy.obj
+v1train/cone_01_noisy.obj
+v1train/cone_11_noisy.obj
+v1train/david_01_noisy.obj
+v1train/david_11_noisy.obj
+v1train/pyramid_01_noisy.obj
+v1train/pyramid_11_noisy.obj
+dev/01t00t00.npy
+dev/F_01t00t00.npy
+26 35 1 4000 1000

@@ -1,0 +1,12 @@
+4
+strain/cad.obj
+strain/elephant.obj
+strain/octa-flower.obj
+strain/fandisk.obj
+strain/cad_n1.obj
+strain/elephant_n2.obj
+strain/octa-flower_n3.obj
+strain/fandisk_n2.obj
+dev/01t00t00.npy
+dev/F_01t00t00.npy
+26 35 1 4000 1000
