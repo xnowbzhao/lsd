@@ -70,7 +70,7 @@ Run the following command to obtain the denoised test meshes:
 ## Citation
 If the repo is useful for your research, please consider citing:
   
-@article{zhao2022local,
+@inproceedings{zhao2022local,
   title={Local Surface Descriptor for Geometry and Feature Preserved Mesh Denoising},
   author={Zhao, Wenbo and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Li, Ge and Ji, Xiangyang},
   year={2022}
