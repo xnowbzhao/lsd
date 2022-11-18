@@ -564,7 +564,7 @@ int main(int argc, char* argv[])
 	int px[5];  //parameters for gdata 
 	// 0,1,2: the index range of output files groups, range(10, 20, 2) = 10, 12, 14, 16, 18
 	// 3: the number of LSD in each group
-	// 4: the nnumber of LSD in each file
+	// 4: the number of LSD in each file
 	fscanf(profile, "%s", outputname);  //name and path of training files
 	fscanf(profile, "%s", outputflagname); // name and path of ground truth files
 
