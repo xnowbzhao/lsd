@@ -67,7 +67,8 @@ Run the following command to obtain the denoised test meshes:
 ./LSD-denoising_mt profile/s_i2/s_i2.txt
 ```
 You can download the pretrained models from:
-https://drive.google.com/file/d/1wrZx_jCXoq-0G2A7MZ4iyMEzcAUUev07/view?usp=sharing
+
+https://drive.google.com/file/d/1wrZx_jCXoq-0G2A7MZ4iyMEzcAUUev07/view?usp=share_link
 
 ## Citation
 If the code is useful for your research, please consider citing:
@@ -75,6 +76,7 @@ If the code is useful for your research, please consider citing:
     @inproceedings{zhao2022local,
       title={Local Surface Descriptor for Geometry and Feature Preserved Mesh Denoising},
       author={Zhao, Wenbo and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Li, Ge and Ji, Xiangyang},
+      journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
       year={2022}
     }
 
