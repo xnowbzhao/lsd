@@ -76,3 +76,6 @@ If the code is useful for your research, please consider citing:
       year={2022}
     }
 
+## Acknowledgement
+The code is based on [GNF](https://github.com/bldeng/GuidedDenoising), If you use any of this code, please make sure to cite these works.
+
