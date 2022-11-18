@@ -28,7 +28,7 @@ g++ -std=c++11 LSD-Gdata_mt.cpp libOpenMeshCore.so.8.1 -I ./ -I ./OpenMesh-8.1/s
 
 ## Generate Dataset and Training 
 
-We take the synthetic dataset as an example to illustrate the training process and evaluation.
+We take the synthetic dataset as an example to illustrate the training process and evaluation, this code may consume huge hard disk space (50GB).
 
 1, Download the dataset from [CNR](https://wang-ps.github.io/denoising.html), move the files as follow:
 
@@ -66,6 +66,8 @@ Run the following command to obtain the denoised test meshes:
 ```
 ./LSD-denoising_mt profile/s_i2/s_i2.txt
 ```
+You can download the pretrained models from:
+https://drive.google.com/file/d/1wrZx_jCXoq-0G2A7MZ4iyMEzcAUUev07/view?usp=sharing
 
 ## Citation
 If the code is useful for your research, please consider citing:
