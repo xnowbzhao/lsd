@@ -58,7 +58,14 @@ cp -r out model/s_i1
 ./LSD-denoising_mt profile/s_i1/s_i1.txt
 ```
 
-5, repeat step 2-3 to obtain the model of iteration 2, notice that you should 1) clear train/, dev/ and out/ manually, 2) use the profile in profile/s_i2.
+5, repeat step 2-3 to obtain the model of iteration 2, notice that you should 1) clear train/, dev/ and out/ manually, 2) use the profile in profile/s_i2:
+
+```
+./LSD-Gdata_mt profile/s_i2/profile1.txt
+./LSD-Gdata_mt profile/s_i2/profile2.txt
+python train.py
+cp -r out model/s_i2
+```
 
 ## Evaluation
 
