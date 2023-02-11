@@ -2,7 +2,7 @@
 model/s_i1
 model/s_i2
 2 20
-87
+75
 stest/armadillo_n1.obj
 stest/armadillo_n2.obj
 stest/armadillo_n3.obj
@@ -39,6 +39,9 @@ stest/fertility_n3.obj
 stest/gargoyle_n1.obj
 stest/gargoyle_n2.obj
 stest/gargoyle_n3.obj
+stest/genus3_n1.obj
+stest/genus3_n2.obj
+stest/genus3_n3.obj
 stest/grayloc_n1.obj
 stest/grayloc_n2.obj
 stest/grayloc_n3.obj
