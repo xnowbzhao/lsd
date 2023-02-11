@@ -38,7 +38,7 @@ Synthetic\train\original -> strain
 Synthetic\test\noisy -> stest
 ```
 
-2, run the following commands for building training data. Since we found that on pytorch, the code needs more training data to achieve simialer results. We increased the number of training data:
+2, run the following commands for building training data:
 
 ```
 ./LSD-Gdata_mt profile/s_i1/profile1.txt
