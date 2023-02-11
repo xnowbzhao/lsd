@@ -127,4 +127,4 @@ v1train/pyramid_21_noisy.obj
 v1train/pyramid_23_noisy.obj
 train/02t00t00.npy
 train/F_02t00t00.npy
-15 35 1 80000 8000
+15 35 1 40000 4000
